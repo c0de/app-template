@@ -1,4 +1,4 @@
-html app template
+html app template using gulp, jquery, and angularjs
 
 ## Install Dependencies
 
