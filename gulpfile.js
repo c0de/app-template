@@ -27,7 +27,8 @@ var appFiles      = [BASE + '/app/app.js', BASE + '/**/*.js'],
       NPM_BASE + '/bootstrap/less/bootstrap.less'],
     libFiles      = [
       NPM_BASE + '/jquery/dist/jquery.min.js',
-      NPM_BASE + '/angular/angular.min.js'],
+      NPM_BASE + '/angular/angular.min.js',
+      NPM_BASE + '/angular-ui-router/release/angular-ui-router.min.js'],
     mapFiles      = [
       NPM_BASE + '/jquery/dist/*.map',
       NPM_BASE + '/angular/*.map'];
